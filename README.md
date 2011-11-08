@@ -1,7 +1,7 @@
 TerrainGenerator
 ================
 
-*Simulates basic landscapes based on generated height map.*
+*Simulates basic landscapes based on a generated height map.*
 
 About
 -----
